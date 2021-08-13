@@ -15,7 +15,6 @@ for i in range(0, rows):
 
 '''
 OUTPUT:
-
                *
              *   *
            *   *   *
